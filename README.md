@@ -20,3 +20,5 @@ npm start to start the server. By default it will run on port 3202.
 
 For UI npm run dev client and it will open on a new tab on port 3000.
 Go to http://localhost:3000 to see the application running.
+
+Demo : https://www.awesomescreenshot.com/video/21471894?key=04094e607fec33a163e8015eccf193fa
