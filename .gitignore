@@ -47,9 +47,7 @@ Thumbs.db
 *.flv
 *.mov
 *.wmv
-backEnd/node_modules
-backEnd/.env
-backEnd/package-lock.json
-frontEnd/.env
-frontEnd/.next
-frontEnd/package-lock.json
+backend/node_modules
+backend/package-lock.json
+frontend/.next
+frontend/package-lock.json

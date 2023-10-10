@@ -1,12 +1,16 @@
-# Welcome to the Shopify + Next.js + Tailwind CSS
+Front-End - React js
+Back-End - Node.js, Express.js & MongoDB
+To run it locally -
 
-<div align="center">
-  <img src="https://www.awesomescreenshot.com/video/21471894?key=04094e607fec33a163e8015eccf193fa" alt="shopify next.js course preview">
-  <p align="center">
-    <a href="https://shopify-next-js-tailwind.vercel.app//">Live Demo Store</a>
-  </p>
-</div>
+Steps to run in development mode:-
+Fork the repo and clone it.
+Switch to development branch for running in development mode.
+Make sure you have yarn Node.js & MongoDB installed in your system.
+[Only once] Run (from the root) cd backend && npm install.
+Open two terminal windows (one for running Server and other for the UI).
+Start MongoDB service with sudo service mongod start.
+npm start to start the server. By default it will run on port 3202.
+[Only once] Run (from the root) cd frontend && npm install.
 
-
-
-This is a production ready Headless Shopify storefront using Next.js, Shopify Storefront API (GraphQL), Tailwind CSS, and Vercel. This is a project from the "Learn Shopify + Next.
+For UI npm run dev client and it will open on a new tab on port 3000.
+Go to http://localhost:3000 to see the application running.
